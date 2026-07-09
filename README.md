@@ -16,9 +16,9 @@ With 20+ years of experience across **real estate, e-commerce, legal, marketing,
 - Currently expanding into AI consulting, with a focus on real estate professionals
 
 ### 📫 Let's Connect
-- Resume: [your site link once live]
+- Resume: https://github.com/janesebastian
 - Email: sjane.sebastian@gmail.com / sarahjane.sebastian@gmail.com
-- LinkedIn: [your LinkedIn URL]
+- LinkedIn: https://www.linkedin.com/in/sarahjanesebastian
 
 ---
 *Currently building smarter workflows with AI — open to remote VA roles and consulting projects.*
