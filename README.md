@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Sarah Jane Sebastian 👋
 
-<!--
-**janesebastian/janesebastian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Virtual Assistant & AI Consultant
 
-Here are some ideas to get you started:
+With 20+ years of experience across **real estate, e-commerce, legal, marketing, and tech**, I help businesses and solopreneurs streamline operations and scale smarter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I Do
+- Virtual Assistant support: admin, operations, client-facing coordination
+- CRM management: Salesforce, HubSpot, Zoho CRM, GoHighLevel, Microsoft Dynamics 365
+- AI consulting: building AI-powered workflows for small businesses and solopreneurs
+- Real estate VA support and operations management
+
+### 💼 Background
+- IT-trained, with hands-on experience across multiple industries
+- Worked with agencies and companies including Agency Brokerage Consultants, Big City Tourism, Consumer Dispute Lawyers, and more
+- Currently expanding into AI consulting, with a focus on real estate professionals
+
+### 📫 Let's Connect
+- Resume: [your site link once live]
+- Email: sjane.sebastian@gmail.com / sarahjane.sebastian@gmail.com
+- LinkedIn: [your LinkedIn URL]
+
+---
+*Currently building smarter workflows with AI — open to remote VA roles and consulting projects.*
